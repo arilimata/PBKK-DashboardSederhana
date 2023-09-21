@@ -1,0 +1,65 @@
+D:\GIT\Dashboard1\Dashboard1\bin\Debug\Dashboard1.exe.config
+D:\GIT\Dashboard1\Dashboard1\bin\Debug\Dashboard1.exe
+D:\GIT\Dashboard1\Dashboard1\bin\Debug\Dashboard1.pdb
+D:\GIT\Dashboard1\Dashboard1\bin\Debug\MaterialDesignColors.dll
+D:\GIT\Dashboard1\Dashboard1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\GIT\Dashboard1\Dashboard1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\GIT\Dashboard1\Dashboard1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\Dashboard1.csprojResolveAssemblyReference.cache
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\MainWindow.g.cs
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\App.g.cs
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\Dashboard1_MarkupCompile.cache
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\Dashboard1_MarkupCompile.lref
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\MainWindow.baml
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\Dashboard1.g.resources
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\Dashboard1.Properties.Resources.resources
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\Dashboard1.csproj.GenerateResource.Cache
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\Dashboard1.csproj.CoreCompileInputs.cache
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\Dashboard1.exe
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\Dashboard1.pdb
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\App.baml
+D:\GIT\Dashboard1\Dashboard1\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\bin\Debug\Dashboard1.exe.config
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\bin\Debug\Dashboard1.exe
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\bin\Debug\Dashboard1.pdb
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\bin\Debug\MaterialDesignColors.dll
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\obj\Debug\Dashboard1.csproj.AssemblyReference.cache
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\obj\Debug\MainWindow.g.cs
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\obj\Debug\App.g.cs
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\obj\Debug\Dashboard1_MarkupCompile.cache
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\obj\Debug\Dashboard1_MarkupCompile.lref
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\obj\Debug\App.baml
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\obj\Debug\MainWindow.baml
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\obj\Debug\Dashboard1.g.resources
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\obj\Debug\Dashboard1.Properties.Resources.resources
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\obj\Debug\Dashboard1.csproj.GenerateResource.cache
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\obj\Debug\Dashboard1.csproj.CoreCompileInputs.cache
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\obj\Debug\Dashboard1.csproj.CopyComplete
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\obj\Debug\Dashboard1.exe
+D:\Kuliah\Kelas\Smt 5\PBKK\Project\Dashboard1\Dashboard1\obj\Debug\Dashboard1.pdb
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\bin\Debug\Dashboard1.exe.config
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\bin\Debug\Dashboard1.exe
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\bin\Debug\Dashboard1.pdb
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\bin\Debug\MaterialDesignColors.dll
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\obj\Debug\Dashboard1.csproj.AssemblyReference.cache
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\obj\Debug\MainWindow.g.cs
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\obj\Debug\App.g.cs
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\obj\Debug\Dashboard1_MarkupCompile.cache
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\obj\Debug\Dashboard1_MarkupCompile.lref
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\obj\Debug\App.baml
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\obj\Debug\MainWindow.baml
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\obj\Debug\Dashboard1.g.resources
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\obj\Debug\Dashboard1.Properties.Resources.resources
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\obj\Debug\Dashboard1.csproj.GenerateResource.cache
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\obj\Debug\Dashboard1.csproj.CoreCompileInputs.cache
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\obj\Debug\Dashboard1.csproj.CopyComplete
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\obj\Debug\Dashboard1.exe
+D:\Kuliah\Kelas\Smt 5\PBKK\GitHub\PBKK-DashboardSederhana\Dashboard1\obj\Debug\Dashboard1.pdb
